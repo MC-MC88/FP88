@@ -102,7 +102,6 @@ MIT License — استخدام حر مع الإبقاء على ذكر حقوق �
 
 التواصل
 
-https://img.shields.io/badge/Email-mohamed005cheikh@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white
-https://img.shields.io/badge/GitHub-mohamed005cheikh--rgb-181717?style=flat-square&logo=github
-
+[![Email](https://img.shields.io/badge/mohamed005cheikh%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white&labelColor=ea4335)](mailto:mohamed005cheikh@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/%2B222%2030%2072%2064%2075-0d1117?style=flat-square&logo=whatsapp&logoColor=white&labelColor=25d366)](https://wa.me/22230726475)
 <sub>© 2026 محمد شيخ — MC88</sub>
